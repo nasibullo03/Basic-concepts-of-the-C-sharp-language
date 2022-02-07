@@ -10,8 +10,6 @@ namespace Basic_concepts_C_Sharp
             
             int n, a, result;
 
-
-
             Console.Write("Введите число a:");
             a = Convert.ToInt32(Console.ReadLine());
 
