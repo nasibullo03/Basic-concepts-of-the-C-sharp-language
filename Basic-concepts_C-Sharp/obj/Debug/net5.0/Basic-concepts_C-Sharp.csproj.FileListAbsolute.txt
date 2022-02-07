@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\bin\Debug\net5.0\Basic-concepts_C-Sharp.exe
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\bin\Debug\net5.0\Basic-concepts_C-Sharp.deps.json
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\bin\Debug\net5.0\Basic-concepts_C-Sharp.runtimeconfig.json
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\bin\Debug\net5.0\Basic-concepts_C-Sharp.runtimeconfig.dev.json
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\bin\Debug\net5.0\Basic-concepts_C-Sharp.dll
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\bin\Debug\net5.0\ref\Basic-concepts_C-Sharp.dll
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\bin\Debug\net5.0\Basic-concepts_C-Sharp.pdb
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\obj\Debug\net5.0\Basic-concepts_C-Sharp.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\obj\Debug\net5.0\Basic-concepts_C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\obj\Debug\net5.0\Basic-concepts_C-Sharp.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\obj\Debug\net5.0\Basic-concepts_C-Sharp.AssemblyInfo.cs
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\obj\Debug\net5.0\Basic-concepts_C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\obj\Debug\net5.0\Basic-concepts_C-Sharp.dll
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\obj\Debug\net5.0\ref\Basic-concepts_C-Sharp.dll
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\obj\Debug\net5.0\Basic-concepts_C-Sharp.pdb
+C:\Users\student\source\repos\Basic-concepts_C-Sharp\Basic-concepts_C-Sharp\obj\Debug\net5.0\Basic-concepts_C-Sharp.genruntimeconfig.cache
