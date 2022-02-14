@@ -16,12 +16,19 @@ namespace Basic_concepts_C_Sharp {
 
       number = Console.ReadLine();
 
-      for (int step = 0; step < number.Length; step++) {
-        if (step == 1) {
-          continue;
-        }
-                newNumber += number[step];
-      }
+            foreach (int el in number)
+            {
+                if (el == 1)
+                {
+                    continue;
+                }
+
+                newNumber += number[el];
+            }
+            
+           /* for (int step = 0; step < number.Length; step++) {
+       
+      }*/
 
       newNumber += number[1];
 

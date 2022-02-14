@@ -9,21 +9,21 @@ namespace Basic_concepts_C_Sharp {
   class Program {
     static void Main(string[] args) {
 
-      int degree, number, result;
+      int Degree, Number, Result;
 
       Console.Write("Введите число a:");
-      number = Convert.ToInt32(Console.ReadLine());
+      Number = Convert.ToInt32(Console.ReadLine());
 
       Console.Write("Введите число n:");
-      degree = Convert.ToInt32(Console.ReadLine());
+      Degree = Convert.ToInt32(Console.ReadLine());
      
-      result = 1;
+      Result = 1;
 
-      for (int step = 0; step < degree; step++) {
-        result *= number;
+      for (int Step = 0; Step < Degree; Step++) {
+        Result *= Number;
       }
 
-      Console.WriteLine(result);
+      Console.WriteLine(Result);
 
     }
   }
