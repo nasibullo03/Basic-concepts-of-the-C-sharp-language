@@ -1,4 +1,9 @@
-﻿using System;
+﻿/***********************************************
+ * Автор:    Халилов Н.Х.                       *
+ * Дата:     14.02.2022                         *
+ * Название: 1. Базовые понятия языка С#        *
+ ***********************************************/
+using System;
 
 namespace Basic_concepts_C_Sharp
 {
@@ -7,7 +12,6 @@ namespace Basic_concepts_C_Sharp
         static void Main(string[] args)
         {
 
-            
             int n, a, result;
 
             Console.Write("Введите число a:");
