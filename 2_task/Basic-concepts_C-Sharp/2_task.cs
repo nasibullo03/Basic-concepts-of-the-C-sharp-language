@@ -14,7 +14,7 @@ namespace Basic_concepts_C_Sharp {
 
       Console.Write("Введите число:");
 
-            number = Console.ReadLine();
+      number = Console.ReadLine();
 
       for (int step = 0; step < number.Length; step++) {
         if (step == 1) {
@@ -23,7 +23,7 @@ namespace Basic_concepts_C_Sharp {
                 newNumber += number[step];
       }
 
-            newNumber += number[1];
+      newNumber += number[1];
 
       Console.WriteLine(number);
 
