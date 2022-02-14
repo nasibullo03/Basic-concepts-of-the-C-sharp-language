@@ -9,30 +9,22 @@ namespace Basic_concepts_C_Sharp {
   class Program {
     static void Main(string[] args) {
 
-      String number, newNumber="";
+      String Number, NewNumber="";
             
-
       Console.Write("Введите число:");
 
-      number = Console.ReadLine();
+      Number = Console.ReadLine();
 
-            foreach (int el in number)
-            {
-                if (el == 1)
-                {
-                    continue;
-                }
+      for (int Step = 0; Step < Number.Length; Step++) {
+        if (Step == 1) {
+          continue;
+        }
+                NewNumber += Number[Step];
+      }
 
-                newNumber += number[el];
-            }
-            
-           /* for (int step = 0; step < number.Length; step++) {
-       
-      }*/
+      NewNumber += Number[1];
 
-      newNumber += number[1];
-
-      Console.WriteLine(number);
+      Console.WriteLine(Number);
 
     }
   }
